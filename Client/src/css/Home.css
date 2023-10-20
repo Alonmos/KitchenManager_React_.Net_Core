@@ -1,0 +1,19 @@
+.recdiv {
+  border-radius: 20px;
+  border: 1px solid #008000;
+  padding: 10px;
+  margin: 20px auto;
+  box-shadow: 0px 0px 20px 0px #ffffff;
+  width: 90%;
+  min-height: 270px;
+}
+
+.appMsg {
+  margin-top: 100px;
+}
+
+.recName p {
+  font-weight: bold;
+  margin: 10px;
+  font-size: 18px;
+}

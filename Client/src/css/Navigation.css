@@ -1,0 +1,15 @@
+.nav {
+    background-color: #34568B;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav a {
+    margin: 0 25px;
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
